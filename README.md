@@ -1,8 +1,8 @@
 # imgmarkov
 Dreams up images using multi-dimensional markov chains.
 
-![Alt text](/screenshots/1.png?raw=true "Optional Title")
-![Alt text](/screenshots/2.png?raw=true "Optional Title")
+![Screenshot 1](/screenshots/1.png?raw=true "Screenshot 1")
+![Screenshot 2](/screenshots/2.png?raw=true "Screenshot 2")
 
 ## Dependencies
  - python 2
