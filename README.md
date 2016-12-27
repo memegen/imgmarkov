@@ -11,7 +11,7 @@ Dreams up images using multi-dimensional markov chains.
 
 ## Usage
 
-**Step 1. import**
+**Step 1. import image** (try to keep dimensions below 200x200 pixels)
 ```
 python import.py [<file>]
 ```
@@ -23,7 +23,7 @@ options:
 	--copied <n>    Number of pixels to copy from original image.
 	--silent        Turn off step-by-step graphical representation
 ```
-**Step 3. export**
+**Step 3. export image**
 ```
 python export.py [<path>]
 ```
