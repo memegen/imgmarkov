@@ -1,18 +1,18 @@
 # imgmarkov
 Dreams up images using multi-dimensional markov chains.
 
-# Dependencies
+## Dependencies
  - python 2
  - PIL
  - pypy (optional)
 
-# Usage
+## Usage
 
-## Step 1. import
+**Step 1. import**
 ```
 python import.py [<file>]
 ```
-## Step 2. generate 
+**Step 2. generate**
 ```
 pypy imgmarkov.py [options]
 options:
@@ -20,7 +20,7 @@ options:
 	--copied <n>    Number of pixels to copy from original image.
 	--silent        Turn off step-by-step graphical representation
 ```
-## Step 3. export
+**Step 3. export**
 ```
 python export.py [<path>]
 ```
